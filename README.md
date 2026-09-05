@@ -18,7 +18,7 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 
 | Mão Aberta | Punho Fechado | Paz | Polegar pra Cima |
 |:---:|:---:|:---:|:---:|
-| ![Mão Aberta](docs/mao_aberta.jpg) | ![Punho Fechado](docs/punho_fechado.jpg) | ![Paz](docs/paz.jpg) | ![Polegar](docs/polegar.jpg) |
+| ![Mão Aberta](imagens/mao_Aberta.jpg) | ![Punho Fechado](imagens/mao_Fechada.jpg) | ![Paz](imagens/paz.jpg) | ![Polegar](imagens/joia.jpg) |
 
 > **Nota:** O projeto foi construído de forma modular. Você pode facilmente usar os scripts inclusos para coletar seus próprios dados e ensinar novos gestos à IA!
 
