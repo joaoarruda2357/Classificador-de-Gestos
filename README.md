@@ -22,8 +22,6 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 
 > **Nota:** O projeto foi construído de forma modular. Você pode facilmente usar os scripts inclusos para coletar seus próprios dados e ensinar novos gestos à IA!
 
-## Demonstração
-> *[Substitua este texto por um GIF ou vídeo curto demonstrando o código rodando em sua máquina]*
 
 ## Tecnologias Utilizadas
 * **Python 3.12**
