@@ -14,7 +14,7 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 * ✌️ **Paz** (Letra V)
 * 👍 **Polegar pra cima** (Joinha)
 
-## 📸 Demonstração dos Gestos
+## Demonstração dos Gestos
 
 | Mão Aberta | Punho Fechado | Paz | Polegar pra Cima |
 |:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 ## Demonstração
 > *[Substitua este texto por um GIF ou vídeo curto demonstrando o código rodando em sua máquina]*
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Python 3.12**
 * **MediaPipe** (Rastreamento de mãos)
 * **OpenCV** (Captura e processamento de vídeo)
@@ -34,7 +34,7 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### 1. Clonando o Repositório
 Abra o seu terminal e clone o projeto:
@@ -85,7 +85,7 @@ Pressione a tecla **'q'** na janela da câmera para encerrar a aplicação.
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto é dividido em etapas claras de Machine Learning. Siga a ordem abaixo caso queira treinar seus próprios gestos:
 
