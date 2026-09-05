@@ -99,5 +99,3 @@ O projeto é dividido em etapas claras de Machine Learning. Siga a ordem abaixo 
 ---
 
 **Autor:** João Pedro Arruda da Silva
-
-```
