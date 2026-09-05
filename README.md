@@ -37,8 +37,8 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 ### 1. Clonando o Repositório
 Abra o seu terminal e clone o projeto:
 ```bash
-git clone [https://github.com/arruda_/gesture-classifier](https://github.com/arruda_/gesture-classifier)
-cd gesture-classifier
+git clone [https://github.com/joaoarruda2357/Classificador-de-Gestos](https://github.com/joaoarruda2357/Classificador-de-Gestos)
+cd Classificador-de-Gestos
 
 ```
 
@@ -75,7 +75,7 @@ wget -q [https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_la
 Com tudo pronto, inicie o reconhecimento em tempo real:
 
 ```bash
-python3 demo.py
+python3 reconhecimento_gestos.py
 
 ```
 
@@ -89,10 +89,10 @@ O projeto é dividido em etapas claras de Machine Learning. Siga a ordem abaixo 
 
 | Arquivo | Descrição |
 | --- | --- |
-| `visualizar.py` | Apenas exibe a imagem da webcam com o mapeamento dos *landmarks* (sem IA de classificação). Útil para testes de câmera. |
-| `coletar.py` | Script de coleta. Permite gravar amostras do seu movimento e exportar as coordenadas tridimensionais para o dataset `dados.csv`. |
-| `treinar.py` | Lê o `dados.csv`, treina o algoritmo de classificação e salva o modelo resultante em formato `.pkl`. |
-| `demo.py` | Aplicação final. Junta a captura da câmera, a extração do MediaPipe e a predição do modelo treinado. |
+| `ver_marcacoes.py` | Apenas exibe a imagem da webcam com o mapeamento dos *landmarks* (sem IA de classificação). Útil para testes de câmera. |
+| `coleta_dados.py` | Script de coleta. Permite gravar amostras do seu movimento e exportar as coordenadas tridimensionais para o dataset `dados.csv`. |
+| `treinar_modelo.py` | Lê o `dados.csv`, treina o algoritmo de classificação e salva o modelo resultante em formato `.pkl`. |
+| `reconhecer_gestos.py` | Aplicação final. Junta a captura da câmera, a extração do MediaPipe e a predição do modelo treinado. |
 
 ---
 
