@@ -37,7 +37,7 @@ O modelo pré-treinado é capaz de identificar os seguintes gestos:
 ### 1. Clonando o Repositório
 Abra o seu terminal e clone o projeto:
 ```bash
-git clone [https://github.com/joaoarruda2357/Classificador-de-Gestos](https://github.com/joaoarruda2357/Classificador-de-Gestos)
+git clone https://github.com/joaoarruda2357/Classificador-de-Gestos
 cd Classificador-de-Gestos
 
 ```
